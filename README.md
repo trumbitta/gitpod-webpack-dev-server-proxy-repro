@@ -1,6 +1,6 @@
 # Requirements
 
-Node >= 12.0.0
+Node >= 12.0.0  
 NPM >= 6.0.0
 
 # Instructions
